@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "119435855819",
+    "firebase_url": "https://the-exchange-platform.firebaseio.com",
+    "project_id": "the-exchange-platform",
+    "storage_bucket": "the-exchange-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119435855819:android:0bc2b9966d32a095d5184e",
+        "android_client_info": {
+          "package_name": "com.example.the_ex_plat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119435855819-p0tqa5jj101b4murhq632f4qkf2udv4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiaUarCpySYe5e15YAk2lezNdQ4wBUgTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119435855819-p0tqa5jj101b4murhq632f4qkf2udv4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
